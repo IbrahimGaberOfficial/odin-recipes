@@ -1,0 +1,23 @@
+
+.main-title{
+    text-align: center;
+}
+.recipe-card{
+    display: inline-block;
+    background-color: beige;
+    margin: 33px;
+    padding: 35px;
+    text-align: center;
+    border: 1px solid goldenrod;
+    border-radius: 2%;
+}
+.recipe-card h2{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.recipe-card img{
+    width: 450px;
+}
+.recipe-card a{
+    color: black;
+}
