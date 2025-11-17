@@ -1,0 +1,39 @@
+body {
+  margin: 20px;
+}
+.nva-bar-element {
+  display: inline-block;
+  vertical-align: baseline;
+}
+.main-title {
+  font-size: xx-large;
+  margin: 0;
+  position: relative;
+  bottom: 15px;
+}
+.nav-bar {
+  text-align: center;
+}
+h3 {
+  margin: 0px;
+}
+ul,
+ol {
+  padding-left: 16px;
+}
+
+li{
+      padding: 5px 1px;
+
+}
+.recipe-imge {
+  width: 500px;
+}
+.nutrition-element {
+  display: inline-block;
+  margin: 10px 15px 0px 0px;
+}
+div .nutrition-element p {
+  margin-bottom: 7px;
+  margin-top: 2px;
+}
